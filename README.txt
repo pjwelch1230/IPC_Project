@@ -4,7 +4,7 @@ Project 2
 
 Program has utilized code from https://man7.org/linux/man-pages/man7/unix.7.html
 
-Also a special thanks to Zuo Fei for providing a base for code as well as for help with the word search problem
+Also a special thanks to Professor Zuo Fei for providing a base for code as well as for help with the word search problem
 	
 	##### Use Instructions #####
 	
